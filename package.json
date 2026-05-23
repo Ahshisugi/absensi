@@ -1,0 +1,23 @@
+{
+  "name": "absen",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.106.1",
+    "@vladmandic/face-api": "^1.7.15",
+    "jspdf": "^4.2.1",
+    "lucide-vue-next": "^1.0.0",
+    "vue": "^3.5.34",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.6",
+    "vite": "^8.0.12"
+  }
+}
